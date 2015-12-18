@@ -11,7 +11,7 @@ Installation
 
 In order to run this tutorial, you will need Python 3. The easiest way to install this is to got to [Anaconda](https://www.continuum.io/downloads), download the installer for your operating system, and run it.
 
-Then, download this tuorial (either as ZIP file or via GitHub clone), and open the .ipynb file. You can do this in a terminal window, by typing
+Then, download this tutorial (either as ZIP file or via GitHub clone), and open the .ipynb file. You can do this in a terminal window, by typing
 ```
 ipython notebook
 ```
